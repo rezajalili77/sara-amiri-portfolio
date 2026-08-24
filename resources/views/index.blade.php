@@ -307,7 +307,7 @@
                                                     data-aos-duration="900">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <img src="/img/icons/skill1.svg" alt="">
+                                                            <i class="fa-brands fa-python" style="font-size:42px;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">85</span>%</h3>
@@ -320,7 +320,7 @@
                                                     data-aos-duration="1000">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <img src="/img/icons/skill2.svg" alt="">
+                                                            <i class="fa-solid fa-square-root-variable" style="font-size:38px;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">80</span>%</h3>
@@ -333,7 +333,7 @@
                                                     data-aos-duration="1100">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <img src="/img/icons/skill3.svg" alt="">
+                                                            <i class="fa-solid fa-calculator" style="font-size:38px;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">75</span>%</h3>
@@ -346,7 +346,7 @@
                                                     data-aos-duration="1200">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <img src="/img/icons/skill4.svg" alt="">
+                                                            <i class="fa-solid fa-file-excel" style="font-size:42px;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">90</span>%</h3>
@@ -359,7 +359,7 @@
                                                     data-aos-duration="1000">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <img src="/img/icons/skill5.svg" alt="">
+                                                            <i class="fa-solid fa-file-word" style="font-size:42px;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">88</span>%</h3>
@@ -372,8 +372,7 @@
                                                     data-aos-duration="11000">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <img src="/img/icons/skill6.svg" alt=""
-                                                                class="Wordpress">
+                                                            <i class="fa-solid fa-file-powerpoint" style="font-size:42px;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">88</span>%</h3>
