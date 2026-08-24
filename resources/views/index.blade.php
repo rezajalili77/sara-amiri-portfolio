@@ -39,12 +39,13 @@
                             internship from February 2027 in biotech, food, pharma or QC/QA.</p>
                         <div class="space32"></div>
                         <ul>
-                            <li><a href="https://www.instagram.com/s.dk_ww" target="_blank" rel="noopener"><img src="/img/icons/s-icon2.svg" alt=""></a></li>
-                            <li><a href="https://www.facebook.com/sima.amani.921" target="_blank" rel="noopener"><img src="/img/icons/s-icon3.svg" alt=""></a></li>
-                            <li><a href="https://www.linkedin.com/in/sara-amiri-958b0a313/" target="_blank" rel="noopener" class="m-0"><img src="/img/icons/s-icon4.svg"
-                                        alt=""></a></li>
+                            <li><a href="https://www.instagram.com/s.dk_ww" target="_blank" rel="noopener"><i class="fa-brands fa-instagram" style="font-size:20px;color:#E4405F;"></i></a></li>
+                            <li><a href="https://www.facebook.com/sima.amani.921" target="_blank" rel="noopener"><i class="fa-brands fa-facebook-f" style="font-size:20px;color:#1877F2;"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/sara-amiri-958b0a313/" target="_blank" rel="noopener" class="m-0"><i class="fa-brands fa-linkedin-in" style="font-size:20px;color:#0A66C2;"></i></a></li>
                         </ul>
-                        <div class="space44"></div>
+                        <div class="space20"></div>
+                        <p style="text-align:center;"><i class="fa-solid fa-envelope"></i> Amyri9080@gmail.com<br><i class="fa-solid fa-phone"></i> +45 60 90 53 55</p>
+                        <div class="space24"></div>
                         <div class="btn-area1 text-center">
                             <a href="/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img
                                     src="/img/icons/download1.svg" alt=""></a>
@@ -190,13 +191,12 @@
                                                 <h4>Stay With Me </h4>
                                                 <div class="space18"></div>
                                                 <ul>
-                                                    <li><a href="https://www.instagram.com/s.dk_ww" target="_blank" rel="noopener"><img src="/img/icons/s-icon2.svg"
-                                                                alt=""></a></li>
-                                                    <li><a href="https://www.facebook.com/sima.amani.921" target="_blank" rel="noopener"><img src="/img/icons/s-icon3.svg"
-                                                                alt=""></a></li>
-                                                    <li><a href="https://www.linkedin.com/in/sara-amiri-958b0a313/" target="_blank" rel="noopener" class="m-0"><img
-                                                                src="/img/icons/s-icon4.svg" alt=""></a></li>
+                                                    <li><a href="https://www.instagram.com/s.dk_ww" target="_blank" rel="noopener"><i class="fa-brands fa-instagram" style="font-size:20px;color:#E4405F;"></i></a></li>
+                                                    <li><a href="https://www.facebook.com/sima.amani.921" target="_blank" rel="noopener"><i class="fa-brands fa-facebook-f" style="font-size:20px;color:#1877F2;"></i></a></li>
+                                                    <li><a href="https://www.linkedin.com/in/sara-amiri-958b0a313/" target="_blank" rel="noopener" class="m-0"><i class="fa-brands fa-linkedin-in" style="font-size:20px;color:#0A66C2;"></i></a></li>
                                                 </ul>
+                                                <div class="space16"></div>
+                                                <p><i class="fa-solid fa-envelope"></i> Amyri9080@gmail.com &nbsp;|&nbsp; <i class="fa-solid fa-phone"></i> +45 60 90 53 55</p>
                                             </div>
                                         </div>
 
@@ -307,7 +307,7 @@
                                                     data-aos-duration="900">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <i class="fa-brands fa-python" style="font-size:42px;"></i>
+                                                            <i class="fa-brands fa-python" style="font-size:42px;color:#3776AB;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">85</span>%</h3>
@@ -320,7 +320,7 @@
                                                     data-aos-duration="1000">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <i class="fa-solid fa-square-root-variable" style="font-size:38px;"></i>
+                                                            <i class="fa-solid fa-square-root-variable" style="font-size:38px;color:#E16737;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">80</span>%</h3>
@@ -333,7 +333,7 @@
                                                     data-aos-duration="1100">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <i class="fa-solid fa-calculator" style="font-size:38px;"></i>
+                                                            <i class="fa-solid fa-calculator" style="font-size:38px;color:#CC0000;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">75</span>%</h3>
@@ -346,7 +346,7 @@
                                                     data-aos-duration="1200">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <i class="fa-solid fa-file-excel" style="font-size:42px;"></i>
+                                                            <i class="fa-solid fa-file-excel" style="font-size:42px;color:#217346;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">90</span>%</h3>
@@ -359,7 +359,7 @@
                                                     data-aos-duration="1000">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <i class="fa-solid fa-file-word" style="font-size:42px;"></i>
+                                                            <i class="fa-solid fa-file-word" style="font-size:42px;color:#2B579A;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">88</span>%</h3>
@@ -372,7 +372,7 @@
                                                     data-aos-duration="11000">
                                                     <div class="skill-boxarea">
                                                         <div class="icons">
-                                                            <i class="fa-solid fa-file-powerpoint" style="font-size:42px;"></i>
+                                                            <i class="fa-solid fa-file-powerpoint" style="font-size:42px;color:#D24726;"></i>
                                                         </div>
                                                         <div class="space24"></div>
                                                         <h3><span class="counter">88</span>%</h3>
