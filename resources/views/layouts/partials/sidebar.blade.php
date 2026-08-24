@@ -33,9 +33,9 @@
                     <h3 class="sidebar-heading">Social Links</h3>
                     <ul>
                         <li>
-                            <a href="https://www.facebook.com/sima.amani.921" target="_blank" rel="noopener"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="https://www.instagram.com/s.dk_ww" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i></a>
-                            <a href="https://www.linkedin.com/in/sara-amiri-958b0a313/" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin-in"></i></a>
+                            <a href="https://www.facebook.com/sima.amani.921" target="_blank" rel="noopener"><i class="fa-brands fa-facebook-f" style="color:#1877F2;"></i></a>
+                            <a href="https://www.instagram.com/s.dk_ww" target="_blank" rel="noopener"><i class="fa-brands fa-instagram" style="color:#E4405F;"></i></a>
+                            <a href="https://www.linkedin.com/in/sara-amiri-958b0a313/" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin-in" style="color:#0A66C2;"></i></a>
                         </li>
                     </ul>
                 </div>
